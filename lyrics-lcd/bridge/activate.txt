@@ -1,0 +1,7 @@
+cd bridge
+source .venv/bin/activate = activate venv
+deactivate = deactivate venv
+
+ TO RUN:
+cd ~/lyrics-lcd/bridge
+./run.sh
